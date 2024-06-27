@@ -1,0 +1,47 @@
+*{
+margin:  0;
+padding: 0;
+box-sizing: border-box;
+}
+h1{
+font-size: 100px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: darkviolet;
+background-color: rgb(26, 20, 26);
+text-align: center;
+text-decoration-color: grey;
+}
+h3{
+    font-size: 50px;
+    font-family: cursive;
+    color: rgb(0, 19, 82);
+    text-align: left;
+}
+
+h4{
+    font-size: 50px;
+    font-family: cursive;
+    color: rgb(0, 19, 82);
+    text-align: left;
+}
+body{
+    background-color: gold;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+.text-color{
+    color: hotpink;
+
+}
+h2{
+    font-size: 50px;
+    font-family: cursive;
+    color: rgb(0, 19, 82);
+    text-align: left;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
